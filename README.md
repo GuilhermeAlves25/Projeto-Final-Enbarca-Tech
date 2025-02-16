@@ -45,6 +45,6 @@ As conexões dos botões e LEDs devem seguir a lógica do código, ligando os pi
 Guilherme Alves Da Silva
 
 ##link para o video demonstrativo:
-[https://youtube.com/shorts/SJc_hkwECx4?feature=share]
+(https://youtu.be/8558GKE03Sk?si=qTQylBmyYGe8X5Qv)
 
 
